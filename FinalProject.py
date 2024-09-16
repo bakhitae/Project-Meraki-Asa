@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 # -------------------------------------- Read dataset ------------------------------
-df = pd.read_pickle("/Users/bakhita/Documents/Main_Material/Day 4/data_car_prices.pkl")
+df = pd.read_pickle("data_car_prices.pkl")
 # -------------------------------------- Membuat Sidebar --------------------
 with st.sidebar:
     # Menambahkan Logo Pribadi
