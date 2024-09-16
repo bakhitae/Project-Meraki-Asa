@@ -16,7 +16,7 @@ df = pd.read_pickle("/Users/bakhita/Documents/Main_Material/Day 4/data_car_price
 with st.sidebar:
     # Menambahkan Logo Pribadi
     st.write("Hi there! 👋 Welcome to my Dashboard!")
-    st.image("Day 4/Material Day 4/Upload Ke Github/data-science.png")
+    st.image("data-science.png")
     st.write("""
              I'm Bakhita Iklil Endrizal and I proudly present the Vehicle Sales Data Analysis Dashboard, which is an innovative tool designed to 
              streamline data analysis with dynamic and interactive visualizations. Explore valuable insights and uncover key trends 
